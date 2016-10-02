@@ -1,0 +1,16 @@
+* {
+	box-sizing: border-box;
+}
+
+
+.collapsin, .in {
+	background-color: #D4E6F1;
+}
+
+#content {	
+	background-color: #EAFAF1
+}
+#text {
+	padding-left:  20px;
+	padding-right: 20px
+}
